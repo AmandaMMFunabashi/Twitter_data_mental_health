@@ -1,6 +1,6 @@
 # Twitter scrap for mental issues analysis
 
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
