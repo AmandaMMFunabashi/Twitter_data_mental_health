@@ -7,11 +7,11 @@
 
 Um estudo pessoal sobre publicações no Twitter sobre termos referentes à saúde mental ("depressão", "borderline" and "burnout").
 
-O estudo está sendo feito em Jupyter Notebook. O scrap de tweets está sendo feito com a biblioteca tweepy do Python, com uso de GCP para armazenamento de dados, com escrita e leitura usando Google Sheets. 
+O estudo está em Jupyter Notebook para facilitar a vida, e usando a biblioteca tweepy do Python, com uso de GCP para armazenamento de dados, escrita e leitura usando Google Sheets. 
 
 * Os dados não estão disponíveis por aqui, mas caso queira acesso, entre em contato.
 
-* As marcações estão sendo feitas de acordo com minhas perspectivas, experiências e opiniões, sendo um projeto pessoal. Portanto, as marcações sobre os dados são de acordo com meu julgamento.
+* As marcações estão sendo feitas de acordo com minhas perspectivas, experiências e opiniões, sendo um projeto pessoal. Portanto, as marcações sobre os dados são de acordo com meu julgamento, que pode muito bem estar errado.
 
 
 
